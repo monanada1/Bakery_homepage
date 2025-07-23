@@ -123,7 +123,7 @@ nav ul li a.active:after {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: url('https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80') no-repeat center center;
+    background: url('../Images/Fresh sourdough bread.jpeg') no-repeat center center;
     background-size: cover;
     position: relative;
     padding-top: 80px;
@@ -511,22 +511,23 @@ nav ul li a.active:after {
 
 /* Different background images for each offer item */
 .offer-item:nth-child(1) .offer-image {
-    background-image: url('https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80');
+    background-image: url('../Images/bakery2.png');
 }
 .offer-item:nth-child(2) .offer-image {
-    background-image: url('https://images.unsplash.com/photo-1542838132-92c53300491e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80');
+    background-image: url('../Images/New breakfast photography croissant brunch ideas.jpeg');
 }
 .offer-item:nth-child(3) .offer-image {
-    background-image: url('https://images.unsplash.com/photo-1608198093002-ad4e005484ec?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80');
+    background-image: url('../Images/bakery\ 1.png');
 }
 .offer-item:nth-child(4) .offer-image {
-    background-image: url('https://images.unsplash.com/photo-1559620192-032c4bc4674e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80');
+    background-image: url('../Images/New breakfast photography croissant brunch ideas.jpeg');
 }
 .offer-item:nth-child(5) .offer-image {
-    background-image: url('https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80');
+    background-image: url('../Images/Strawberry Chocolate Cake.jpeg');
 }
+
 .offer-item:nth-child(6) .offer-image {
-    background-image: url('https://images.unsplash.com/photo-1517686469429-8bdb88b9f907?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80');
+    background-image: url('../Images/download (46).jpeg');
 }
 
 /* Why Choose Us Section */
